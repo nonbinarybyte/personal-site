@@ -214,3 +214,29 @@ a {
   width: 75px;
   height: 75px;
 }
+
+.sect0 {
+  text-align: center;
+  background-color: #accf98;
+  color: black;
+}
+
+.sect01 {
+  text-align: center;
+}
+
+.sect002 {
+  text-align: center;
+}
+
+.section-1 {
+  text-align: center;
+}
+
+.commissions {
+  text-align: left;
+}
+
+.prices {
+  text-align: center;
+}
